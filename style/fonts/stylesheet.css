@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Scania Sans CY Headline';
+    src: url('ScaniaSansCYHeadline-Bold.eot');
+    src: local('Scania Sans CY Headline Bold'), local('ScaniaSansCYHeadline-Bold'),
+        url('ScaniaSansCYHeadline-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ScaniaSansCYHeadline-Bold.woff2') format('woff2'),
+        url('ScaniaSansCYHeadline-Bold.woff') format('woff'),
+        url('ScaniaSansCYHeadline-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('Gilroy-Medium.eot');
+    src: local('Gilroy Medium'), local('Gilroy-Medium'),
+    url('Gilroy-Medium.eot?#iefix') format('embedded-opentype'),
+    url('Gilroy-Medium.woff') format('woff'),
+    url('Gilroy-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('NotoSans-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('NotoSans-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
