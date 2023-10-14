@@ -293,7 +293,7 @@ p {
     }
     .btn_one {
         border: 0.7px solid #071633;
-        width: 150px;
+        width: 220px;
         height: 35px;
     }
 }
@@ -530,7 +530,7 @@ header {
     }
 
     .price__item_right .price_btn_one {
-        margin-left: calc(100% - 150px);
+        margin-left: calc(100% - 220px);
     }
 }
 
